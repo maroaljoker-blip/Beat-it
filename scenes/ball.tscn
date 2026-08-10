@@ -9,7 +9,7 @@ radius = 4.1231055
 [sub_resource type="CircleShape2D" id="CircleShape2D_cxlvu"]
 radius = 4.0
 
-[node name="sin" type="CharacterBody2D"]
+[node name="ball" type="CharacterBody2D"]
 collision_layer = 2
 collision_mask = 8
 script = ExtResource("1_cxlvu")
@@ -22,6 +22,7 @@ shape = SubResource("CircleShape2D_f7cbr")
 
 [node name="Area2D" type="Area2D" parent="."]
 collision_layer = 2
+collision_mask = 9
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
 shape = SubResource("CircleShape2D_cxlvu")

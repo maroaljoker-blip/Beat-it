@@ -22,6 +22,7 @@ position = Vector2(0, -0.5)
 shape = SubResource("RectangleShape2D_dqkch")
 
 [node name="damage area" type="Area2D" parent="."]
+collision_mask = 2
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="damage area"]
 position = Vector2(-33.5, 0.5)

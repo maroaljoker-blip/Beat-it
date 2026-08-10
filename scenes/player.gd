@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-@export var speed := 100.0
+@export var speed := 60.0
 
 const TOP_LIMIT := -115.0
 const BOTTOM_LIMIT := 115.0
@@ -8,6 +8,7 @@ const BOTTOM_LIMIT := 115.0
 var moving_direction := 0
 var lives := 3
 var dead := false
+
 
 @onready var animated_sprite_2d_2: AnimatedSprite2D = $"../AnimatedSprite2D2"
 @onready var animated_sprite_2d_3: AnimatedSprite2D = $"../AnimatedSprite2D3"
@@ -111,7 +112,9 @@ func die():
 
 
 func _on_damage_area_body_entered(body: Node2D) -> void:
-	if body.name == "sin" or body.name == "nemo":
+	print(body.name)
+	if body.name == "ball" or body.name == "nemo":
+		
 		if not can_take_hit:
 			return
 
