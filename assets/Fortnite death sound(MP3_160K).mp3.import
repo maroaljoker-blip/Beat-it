@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bpy0yj6s1s4w1"
+path="res://.godot/imported/Fortnite death sound(MP3_160K).mp3-772614b86beb48bf5ee8ec5f7e123b57.mp3str"
+
+[deps]
+
+source_file="res://assets/Fortnite death sound(MP3_160K).mp3"
+dest_files=["res://.godot/imported/Fortnite death sound(MP3_160K).mp3-772614b86beb48bf5ee8ec5f7e123b57.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
