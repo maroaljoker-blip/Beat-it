@@ -15,8 +15,8 @@ If the ball goes outside the play area, it resets to the center and its speed re
 
 Controls
 
-Up Arrow – Move Up
-Down Arrow – Move Down
+Up Arrow or W – Move Up
+Down Arrow or S – Move Down
 
 Features
 
@@ -33,7 +33,7 @@ Three-heart health system.
 Boss reaction mistakes to make the game more challenging and fair.
 
 Smooth paddle movement.
-** you can only play it in the web that it can not be downloaded i added a video for playing in a file named vedio
+** you can only play it in the web that it can not be downloaded i added a video for playing in a file named 0815.mp4
 
 
 <img width="1152" height="648" alt="Screenshot 2026-08-10 220653" src="https://github.com/user-attachments/assets/2ce4abfc-2402-403e-a546-fd4afcfe2e95" />
