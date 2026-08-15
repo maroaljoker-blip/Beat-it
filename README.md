@@ -18,7 +18,10 @@ Controls
 Up Arrow or W – Move Up
 Down Arrow or S – Move Down
 
-Features
+****the health bar is not random
+Featuresly disapearing it apear in the begg for few seconds then disapear to not block the view of the ball if the ball got over the player it will reset and the health bar will be deduced by 1 and will apear for 5 seconds before dissapearing again****
+
+
 
 it made using godot with some assets from here https://share.google/TJxrLncaoaJKVRIU5
 i did not use ai in anything just the assets used above
