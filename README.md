@@ -20,7 +20,8 @@ Down Arrow or S – Move Down
 
 Features
 
-
+it made using godot with some assets from here https://share.google/TJxrLncaoaJKVRIU5
+i did not use ai in anything just the assets used above
 
 The ball has different bounce angles depending on where it hits the paddle.
 
