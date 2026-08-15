@@ -18,8 +18,8 @@ Controls
 Up Arrow or W – Move Up
 Down Arrow or S – Move Down
 
-****the health bar is not random
-Featuresly disapearing it apear in the begg for few seconds then disapear to not block the view of the ball if the ball got over the player it will reset and the health bar will be deduced by 1 and will apear for 5 seconds before dissapearing again****
+****the health bar is not randomly
+ disappearing it appear in the begg for few seconds then disappear to not block the view of the ball if the ball got over the player it will reset and the health bar will be deduced by 1 and will appear for 5 seconds before dissappearing again****
 
 
 
